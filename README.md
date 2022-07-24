@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YonCoq
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Meteor
+- 🌱 I’m currently learning Meteor / React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yon.coquerel@hotmail.com
 
